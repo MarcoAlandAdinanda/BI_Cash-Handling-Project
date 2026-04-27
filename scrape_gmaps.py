@@ -1,11 +1,12 @@
 """
-Google Maps Scraper — DIY Cash Handling Nodes
-==============================================
+Google Maps Scraper — Kalimantan Selatan Cash Handling Nodes
+============================================================
 Extracts location data (name, lat, lng, category) for potential cash handling
-and distribution points across the Special Region of Yogyakarta (DIY).
+and distribution points across South Kalimantan (Kalimantan Selatan).
 
-Target queries: Kantor Pos, Pegadaian, Indomaret, Alfamart, Alfamidi,
-                Lawson, Circle K, Superindo
+Target queries: Pos Indonesia, Pegadaian, Bank BRI, Bank BCA, Bank Mandiri,
+                Bank BNI, Bank BTN, Bank Kalsel, Bank Syariah Indonesia,
+                BRILink, Indomaret, Alfamart, MR DIY
 
 Uses Playwright (headed + stealth) to interact with Google Maps SPA,
 handles infinite scroll, extracts coordinates from URLs, and exports
@@ -32,26 +33,31 @@ from playwright_stealth import Stealth
 
 # Target business types to search
 SEARCH_QUERIES = [
-    "Kantor Pos",
+    "Pos Indonesia",
     "Pegadaian",
+    "Bank BRI",
+    "Bank BCA",
+    "Bank Mandiri",
+    "Bank BNI",
+    "Bank BTN",
+    "Bank Kalsel",
+    "Bank Syariah Indonesia",
+    "BRILink",
     "Indomaret",
     "Alfamart",
-    "Alfamidi",
-    "Lawson",
-    "Circle K",
-    "Superindo",
+    "MR DIY",
 ]
 
-# DIY geographic center & bounding box for filtering
-DIY_CENTER_LAT = -7.797
-DIY_CENTER_LNG = 110.361
-DIY_ZOOM = 11  # zoom level that roughly covers the entire province
+# Kalimantan Selatan (South Kalimantan) geographic center & bounding box
+KALSEL_CENTER_LAT = -3.32
+KALSEL_CENTER_LNG = 115.44
+KALSEL_ZOOM = 9  # wider zoom to cover the larger province
 
 # Bounding box to filter out-of-province results
-DIY_LAT_MIN = -8.00
-DIY_LAT_MAX = -7.55
-DIY_LNG_MIN = 110.05
-DIY_LNG_MAX = 110.75
+KALSEL_LAT_MIN = -4.20
+KALSEL_LAT_MAX = -1.30
+KALSEL_LNG_MIN = 114.30
+KALSEL_LNG_MAX = 116.60
 
 # Anti-bot delay ranges (seconds)
 DELAY_BETWEEN_CLICKS = (1.5, 3.5)
@@ -62,7 +68,7 @@ DELAY_SCROLL_PAUSE = (1.0, 2.5)
 MAX_SCROLL_ATTEMPTS = 40
 
 # Output file
-OUTPUT_CSV = "diy_cash_nodes.csv"
+OUTPUT_CSV = "kalsel_cash_nodes.csv"
 
 # Browser viewport (realistic desktop)
 VIEWPORT_WIDTH = 1366
@@ -111,34 +117,34 @@ def extract_coords_from_html(html: str) -> tuple[float | None, float | None]:
     Google Maps embeds coordinate data in JSON structures within the page source.
     """
     # Pattern: looks for coordinate pairs in the page source
-    # Common patterns: [null,null,-7.7956,110.3695]  or  [[-7.7956,110.3695],...]
-    # We search for patterns like ,-7.XXXXX,110.XXXXX (Yogyakarta-range coords)
-    matches = re.findall(r"(-7\.\d{3,8}),\s*(110\.\d{3,8})", html)
+    # Common patterns: [null,null,-3.3167,115.4900]  or  [[-3.3167,115.4900],...]
+    # We search for patterns like ,-1...-4.XXXXX,114...116.XXXXX (Kalsel-range coords)
+    matches = re.findall(r"(-[1-4]\.\d{3,8}),\s*(11[4-6]\.\d{3,8})", html)
     if matches:
         # Return the first match (usually the most prominent/primary coordinate)
         return float(matches[0][0]), float(matches[0][1])
 
     # Alternative pattern: coordinates in separate fields
-    matches = re.findall(r"\[(-7\.\d{3,8}),\s*(110\.\d{3,8})\]", html)
+    matches = re.findall(r"\[(-[1-4]\.\d{3,8}),\s*(11[4-6]\.\d{3,8})\]", html)
     if matches:
         return float(matches[0][0]), float(matches[0][1])
 
     return None, None
 
 
-def is_within_diy(lat: float | None, lng: float | None) -> bool:
-    """Check if coordinates fall within the DIY bounding box."""
+def is_within_kalsel(lat: float | None, lng: float | None) -> bool:
+    """Check if coordinates fall within the Kalimantan Selatan bounding box."""
     if lat is None or lng is None:
         return False
-    return (DIY_LAT_MIN <= lat <= DIY_LAT_MAX) and (DIY_LNG_MIN <= lng <= DIY_LNG_MAX)
+    return (KALSEL_LAT_MIN <= lat <= KALSEL_LAT_MAX) and (KALSEL_LNG_MIN <= lng <= KALSEL_LNG_MAX)
 
 
 def build_search_url(query: str) -> str:
-    """Build a Google Maps search URL centered on DIY."""
-    encoded_query = quote(f"{query} Yogyakarta")
+    """Build a Google Maps search URL centered on Kalimantan Selatan."""
+    encoded_query = quote(f"{query} Kalimantan Selatan")
     return (
         f"https://www.google.com/maps/search/{encoded_query}"
-        f"/@{DIY_CENTER_LAT},{DIY_CENTER_LNG},{DIY_ZOOM}z"
+        f"/@{KALSEL_CENTER_LAT},{KALSEL_CENTER_LNG},{KALSEL_ZOOM}z"
         f"?hl=id"
     )
 
@@ -188,14 +194,14 @@ async def extract_coordinates(page, href: str) -> tuple[float | None, float | No
             () => {
                 // Look for coordinate-like text in the page
                 const allText = document.body.innerText;
-                const coordMatch = allText.match(/(-7\\.\\d{3,8}),\\s*(110\\.\\d{3,8})/);
+                const coordMatch = allText.match(/(-[1-4]\\.\\d{3,8}),\\s*(11[4-6]\\.\\d{3,8})/);
                 if (coordMatch) return [parseFloat(coordMatch[1]), parseFloat(coordMatch[2])];
 
                 // Look for coordinate data in meta tags
                 const metas = document.querySelectorAll('meta[content]');
                 for (const meta of metas) {
                     const content = meta.getAttribute('content');
-                    const m = content.match(/(-7\\.\\d{3,8}),\\s*(110\\.\\d{3,8})/);
+                    const m = content.match(/(-[1-4]\\.\\d{3,8}),\\s*(11[4-6]\\.\\d{3,8})/);
                     if (m) return [parseFloat(m[1]), parseFloat(m[2])];
                 }
                 return null;
@@ -432,7 +438,7 @@ async def scrape_query(page, query: str) -> list[dict]:
 async def main():
     """Main scraping orchestrator."""
     log.info("=" * 60)
-    log.info("  Google Maps Scraper — DIY Cash Handling Nodes")
+    log.info("  Google Maps Scraper — Kalimantan Selatan Cash Handling Nodes")
     log.info(f"  Started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     log.info(f"  Queries: {', '.join(SEARCH_QUERIES)}")
     log.info(f"  Output:  {OUTPUT_CSV}")
@@ -453,10 +459,10 @@ async def main():
         context = await browser.new_context(
             viewport={"width": VIEWPORT_WIDTH, "height": VIEWPORT_HEIGHT},
             locale="id-ID",
-            timezone_id="Asia/Jakarta",
+            timezone_id="Asia/Makassar",
             geolocation={
-                "latitude": DIY_CENTER_LAT,
-                "longitude": DIY_CENTER_LNG,
+                "latitude": KALSEL_CENTER_LAT,
+                "longitude": KALSEL_CENTER_LNG,
             },
             permissions=["geolocation"],
         )
@@ -507,17 +513,17 @@ async def main():
     if dropped_null > 0:
         log.info(f"   Dropped {dropped_null} rows with null coordinates.")
 
-    # Filter to DIY bounding box
+    # Filter to Kalimantan Selatan bounding box
     before = len(df)
     df = df[
-        (df["latitude"] >= DIY_LAT_MIN)
-        & (df["latitude"] <= DIY_LAT_MAX)
-        & (df["longitude"] >= DIY_LNG_MIN)
-        & (df["longitude"] <= DIY_LNG_MAX)
+        (df["latitude"] >= KALSEL_LAT_MIN)
+        & (df["latitude"] <= KALSEL_LAT_MAX)
+        & (df["longitude"] >= KALSEL_LNG_MIN)
+        & (df["longitude"] <= KALSEL_LNG_MAX)
     ]
     dropped_bbox = before - len(df)
     if dropped_bbox > 0:
-        log.info(f"   Dropped {dropped_bbox} rows outside DIY bounding box.")
+        log.info(f"   Dropped {dropped_bbox} rows outside Kalimantan Selatan bounding box.")
 
     # Deduplicate by name + coordinates
     before = len(df)
