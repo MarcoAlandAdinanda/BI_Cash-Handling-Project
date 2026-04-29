@@ -1,7 +1,8 @@
 import pandas as pd
 
 # Load CSV
-df = pd.read_csv('kalsel_cash_nodes.csv')
+# Path relative to project root (one level up from webscraping/)
+df = pd.read_csv('../kalsel_cash_nodes.csv')
 
 # 1. Remove the 'category' column
 df = df.drop(columns=['category'])
@@ -32,7 +33,7 @@ df['gmaps_link'] = df.apply(
 )
 
 # Save
-df.to_csv('kalsel_cash_nodes.csv', index=False)
+df.to_csv('../kalsel_cash_nodes.csv', index=False)
 
 print(f"Preprocessed {len(df)} rows.")
 print(f"Columns: {list(df.columns)}")

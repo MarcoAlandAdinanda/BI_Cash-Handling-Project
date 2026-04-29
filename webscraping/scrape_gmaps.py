@@ -1,21 +1,21 @@
 """
-Google Maps Scraper & Preprocessor — Kalimantan Selatan Cash Handling Nodes
-============================================================================
-Integrated pipeline that:
-  1. Scrapes location data from Google Maps for cash handling nodes
-  2. Preprocesses the results:
-     - Removes the 'category' column
-     - Renames duplicated location names with sequential numbers (1, 2, 3, ...)
-     - Adds a Google Maps link column based on coordinates
+Google Maps Scraper — Kalimantan Selatan Cash Handling Nodes
+============================================================
+Extracts location data (name, lat, lng, category) for potential cash handling
+and distribution points across South Kalimantan (Kalimantan Selatan).
 
 Target queries: Pos Indonesia, Pegadaian, Bank BRI, Bank BCA, Bank Mandiri,
                 Bank BNI, Bank BTN, Bank Kalsel, Bank Syariah Indonesia,
                 BRILink, Indomaret, Alfamart, MR DIY
 
+Uses Playwright (headed + stealth) to interact with Google Maps SPA,
+handles infinite scroll, extracts coordinates from URLs, and exports
+a cleaned CSV via pandas.
+
 Usage:
     pip install -r requirements.txt
     playwright install chromium
-    python scrape_and_preprocess.py
+    python webscraping/scrape_gmaps.py
 """
 
 import asyncio
@@ -67,8 +67,8 @@ DELAY_SCROLL_PAUSE = (1.0, 2.5)
 # Maximum scroll attempts before giving up on loading more results
 MAX_SCROLL_ATTEMPTS = 40
 
-# Output file
-OUTPUT_CSV = "kalsel_cash_nodes.csv"
+# Output file — path relative to project root (one level up from webscraping/)
+OUTPUT_CSV = "../kalsel_cash_nodes.csv"
 
 # Browser viewport (realistic desktop)
 VIEWPORT_WIDTH = 1366
@@ -432,84 +432,19 @@ async def scrape_query(page, query: str) -> list[dict]:
     return results
 
 
-# ─── Preprocessing ───────────────────────────────────────────────────────────
-
-
-def preprocess_csv(csv_path: str):
-    """
-    Preprocess the scraped CSV:
-      1. Remove the 'category' column
-      2. Rename duplicated location names with sequential numbers (1, 2, 3, ...)
-      3. Add a Google Maps link column based on each row's coordinates
-    """
-    log.info("🔧 Starting preprocessing...")
-
-    df = pd.read_csv(csv_path)
-    log.info(f"   Loaded {len(df)} rows from {csv_path}")
-
-    # 1. Remove the 'category' column
-    if "category" in df.columns:
-        df = df.drop(columns=["category"])
-        log.info("   ✓ Removed 'category' column")
-
-    # 2. Rename duplicated location names with 1, 2, 3, ...
-    name_counts = {}
-    new_names = []
-    renamed_count = 0
-    for name in df["name"]:
-        if name in name_counts:
-            name_counts[name] += 1
-            new_names.append(f"{name} {name_counts[name]}")
-            renamed_count += 1
-        else:
-            total = (df["name"] == name).sum()
-            if total > 1:
-                name_counts[name] = 1
-                new_names.append(f"{name} 1")
-                renamed_count += 1
-            else:
-                name_counts[name] = 0
-                new_names.append(name)
-
-    df["name"] = new_names
-    log.info(f"   ✓ Renamed {renamed_count} duplicated location names")
-
-    # 3. Add Google Maps link column
-    df["gmaps_link"] = df.apply(
-        lambda row: f"https://www.google.com/maps?q={row['latitude']},{row['longitude']}",
-        axis=1,
-    )
-    log.info("   ✓ Added 'gmaps_link' column")
-
-    # Save back to CSV
-    df.to_csv(csv_path, index=False)
-    log.info(f"   ✅ Preprocessed CSV saved to {csv_path}")
-    log.info(f"   Final columns: {list(df.columns)}")
-    log.info(f"   Final row count: {len(df)}")
-
-    return df
-
-
 # ─── Main Entry Point ────────────────────────────────────────────────────────
 
 
 async def main():
-    """Main scraping + preprocessing orchestrator."""
+    """Main scraping orchestrator."""
     log.info("=" * 60)
-    log.info("  Google Maps Scraper & Preprocessor")
-    log.info("  Kalimantan Selatan Cash Handling Nodes")
+    log.info("  Google Maps Scraper — Kalimantan Selatan Cash Handling Nodes")
     log.info(f"  Started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     log.info(f"  Queries: {', '.join(SEARCH_QUERIES)}")
     log.info(f"  Output:  {OUTPUT_CSV}")
     log.info("=" * 60)
 
     all_results: list[dict] = []
-
-    # ─── Phase 1: Scraping ───────────────────────────────────────────────
-
-    log.info("\n" + "═" * 60)
-    log.info("📡 PHASE 1: SCRAPING")
-    log.info("═" * 60)
 
     async with Stealth().use_async(async_playwright()) as p:
         browser = await p.chromium.launch(
@@ -559,10 +494,10 @@ async def main():
 
         await browser.close()
 
-    # ─── Data Cleaning & Export ──────────────────────────────────────────
+    # ─── Data Cleaning & Export ──────────────────────────────────────────────
 
     log.info("\n" + "=" * 60)
-    log.info("📊 Post-processing scraping results...")
+    log.info("📊 Post-processing results...")
 
     if not all_results:
         log.warning("No results collected! CSV will not be created.")
@@ -600,7 +535,7 @@ async def main():
     # Sort by search_query then name
     df = df.sort_values(["search_query", "name"]).reset_index(drop=True)
 
-    # Select final columns (include category for intermediate CSV)
+    # Select final columns
     df_export = df[["name", "latitude", "longitude", "category", "search_query"]]
 
     # Export to CSV
@@ -613,18 +548,10 @@ async def main():
     for q, count in summary.items():
         log.info(f"     • {q}: {count} locations")
 
-    # ─── Phase 2: Preprocessing ──────────────────────────────────────────
-
-    log.info("\n" + "═" * 60)
-    log.info("🔧 PHASE 2: PREPROCESSING")
-    log.info("═" * 60)
-
-    preprocess_csv(OUTPUT_CSV)
-
-    # ─── Done ────────────────────────────────────────────────────────────
-
     log.info(f"\n{'═' * 60}")
-    log.info(f"  Pipeline completed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    log.info(
+        f"  Scraping completed at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+    )
     log.info(f"{'═' * 60}")
 
 
