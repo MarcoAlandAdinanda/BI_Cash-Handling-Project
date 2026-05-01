@@ -1,0 +1,1016 @@
+18:56:40 │ INFO    │     🔍 Searching: Kecamatan Astambul Dalam Angka 2025
+18:56:44 │ INFO    │     → Found 1 result(s), checking titles...
+18:56:44 │ INFO    │     ✓ Found: Kecamatan Astambul Dalam Angka 2025
+18:57:50 │ INFO    │     ✅ Downloaded (urllib): Kec_Astambul_Dalam_Angka_2025.pdf (4362 KB)
+18:57:50 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+18:57:56 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+18:57:56 │ INFO    │   [40/151] Kecamatan Simpang Empat — Kab. Banjar
+18:57:56 │ INFO    │     🔍 Searching: Simpang Empat Dalam Angka 2025
+18:57:59 │ INFO    │     → Found 1 result(s), checking titles...
+18:57:59 │ INFO    │     ✓ Found: Kecamatan Simpang Empat Dalam Angka 2025
+18:59:14 │ INFO    │     ✅ Downloaded (urllib): Kec_Simpang_Empat_Dalam_Angka_2025.pdf (10671 KB)
+18:59:14 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+18:59:20 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+18:59:20 │ INFO    │   [41/151] Kecamatan Pengaron — Kab. Banjar
+18:59:20 │ INFO    │     🔍 Searching: Pengaron Dalam Angka 2025
+18:59:23 │ INFO    │     → Found 1 result(s), checking titles...
+18:59:23 │ INFO    │     ✓ Found: Kecamatan Pengaron Dalam Angka 2025
+19:00:29 │ INFO    │     ✅ Downloaded (urllib): Kec_Pengaron_Dalam_Angka_2025.pdf (4445 KB)
+19:00:29 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:00:34 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:00:34 │ INFO    │   [42/151] Kecamatan Sungai Pinang — Kab. Banjar
+19:00:34 │ INFO    │     🔍 Searching: Sungai Pinang Dalam Angka 2025
+19:00:38 │ INFO    │     → Found 1 result(s), checking titles...
+19:00:38 │ INFO    │     ✓ Found: Kecamatan Sungai Pinang Dalam Angka 2025
+19:01:43 │ INFO    │     ✅ Downloaded (urllib): Kec_Sungai_Pinang_Dalam_Angka_2025.pdf (4227 KB)
+19:01:43 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:01:49 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:01:49 │ INFO    │   [43/151] Kecamatan Aranio — Kab. Banjar
+19:01:49 │ INFO    │     🔍 Searching: Aranio Dalam Angka 2025
+19:01:52 │ INFO    │     → No results
+19:01:52 │ INFO    │     🔍 Searching: Kecamatan Aranio Dalam Angka 2025
+19:01:56 │ INFO    │     → Found 1 result(s), checking titles...
+19:01:56 │ INFO    │     ✓ Found: Kecamatan Aranio Dalam Angka 2025
+19:03:02 │ INFO    │     ✅ Downloaded (urllib): Kec_Aranio_Dalam_Angka_2025.pdf (4522 KB)
+19:03:02 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:03:07 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:03:07 │ INFO    │   [44/151] Kecamatan Mataraman — Kab. Banjar
+19:03:07 │ INFO    │     🔍 Searching: Mataraman Dalam Angka 2025
+19:03:10 │ INFO    │     → Found 1 result(s), checking titles...
+19:03:10 │ INFO    │     ✓ Found: Kecamatan Mataraman Dalam Angka 2025
+19:04:23 │ INFO    │     ✅ Downloaded (urllib): Kec_Mataraman_Dalam_Angka_2025.pdf (10653 KB)
+19:04:23 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:04:28 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:04:28 │ INFO    │   [45/151] Kecamatan Beruntung Baru — Kab. Banjar
+19:04:28 │ INFO    │     🔍 Searching: Beruntung Baru Dalam Angka 2025
+19:04:31 │ INFO    │     → No results
+19:04:31 │ INFO    │     🔍 Searching: Kecamatan Beruntung Baru Dalam Angka 2025
+19:04:34 │ INFO    │     → Found 1 result(s), checking titles...
+19:04:34 │ INFO    │     ✓ Found: Kecamatan Beruntung Baru Dalam Angka 2025
+19:05:40 │ INFO    │     ✅ Downloaded (urllib): Kec_Beruntung_Baru_Dalam_Angka_2025.pdf (4228 KB)
+19:05:40 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:05:45 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:05:45 │ INFO    │   [46/151] Kecamatan Martapura Barat — Kab. Banjar
+19:05:45 │ INFO    │     🔍 Searching: Martapura Barat Dalam Angka 2025
+19:05:49 │ INFO    │     → Found 1 result(s), checking titles...
+19:05:49 │ INFO    │     ✓ Found: Kecamatan Martapura Barat Dalam Angka 2025
+19:06:57 │ INFO    │     ✅ Downloaded (urllib): Kec_Martapura_Barat_Dalam_Angka_2025.pdf (4496 KB)
+19:06:57 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:07:00 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:07:00 │ INFO    │   [47/151] Kecamatan Martapura Timur — Kab. Banjar
+19:07:00 │ INFO    │     🔍 Searching: Martapura Timur Dalam Angka 2025
+19:07:04 │ INFO    │     → Found 1 result(s), checking titles...
+19:07:04 │ INFO    │     ✓ Found: Kecamatan Martapura Timur Dalam Angka 2025
+19:08:10 │ INFO    │     ✅ Downloaded (urllib): Kec_Martapura_Timur_Dalam_Angka_2025.pdf (4542 KB)
+19:08:10 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:08:15 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:08:15 │ INFO    │   [48/151] Kecamatan Sambung Makmur — Kab. Banjar
+19:08:15 │ INFO    │     🔍 Searching: Sambung Makmur Dalam Angka 2025
+19:08:18 │ INFO    │     → Found 1 result(s), checking titles...
+19:08:18 │ INFO    │     ✓ Found: Kecamatan Sambung Makmur Dalam Angka 2025
+19:09:25 │ INFO    │     ✅ Downloaded (urllib): Kec_Sambung_Makmur_Dalam_Angka_2025.pdf (3705 KB)
+19:09:25 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:09:31 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:09:31 │ INFO    │   [49/151] Kecamatan Paramasan — Kab. Banjar
+19:09:31 │ INFO    │     🔍 Searching: Paramasan Dalam Angka 2025
+19:09:34 │ INFO    │     → No results
+19:09:34 │ INFO    │     🔍 Searching: Kecamatan Paramasan Dalam Angka 2025
+19:09:36 │ INFO    │     → Found 1 result(s), checking titles...
+19:09:36 │ INFO    │     ✓ Found: Kecamatan Paramasan Dalam Angka 2025
+19:10:41 │ INFO    │     ✅ Downloaded (urllib): Kec_Paramasan_Dalam_Angka_2025.pdf (3809 KB)
+19:10:41 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:10:45 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:10:45 │ INFO    │   [50/151] Kecamatan Telaga Bauntung — Kab. Banjar
+19:10:45 │ INFO    │     🔍 Searching: Telaga Bauntung Dalam Angka 2025
+19:10:48 │ INFO    │     → Found 1 result(s), checking titles...
+19:10:48 │ INFO    │     ✓ Found: Kecamatan Telaga Bauntung Dalam Angka 2025
+19:11:54 │ INFO    │     ✅ Downloaded (urllib): Kec_Telaga_Bauntung_Dalam_Angka_2025.pdf (3497 KB)
+19:11:54 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:12:00 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:12:00 │ INFO    │   [51/151] Kecamatan Tatah Makmur — Kab. Banjar
+19:12:00 │ INFO    │     🔍 Searching: Tatah Makmur Dalam Angka 2025
+19:12:03 │ INFO    │     → Found 1 result(s), checking titles...
+19:12:03 │ INFO    │     ✓ Found: Kecamatan Tatah Makmur Dalam Angka 2025
+19:13:15 │ INFO    │     ✅ Downloaded (urllib): Kec_Tatah_Makmur_Dalam_Angka_2025.pdf (10158 KB)
+19:13:15 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:13:19 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:13:19 │ INFO    │   [52/151] Kecamatan Cintapuri Darussalam — Kab. Banjar
+19:13:19 │ INFO    │     🔍 Searching: Cintapuri Darussalam Dalam Angka 2025
+19:13:22 │ INFO    │     → Found 1 result(s), checking titles...
+19:13:22 │ INFO    │     ✓ Found: Kecamatan Cintapuri Darussalam Dalam Angka 2025
+19:14:30 │ INFO    │     ✅ Downloaded (urllib): Kec_Cintapuri_Darussalam_Dalam_Angka_2025.pdf (3782 KB)
+19:14:30 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:14:36 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:14:36 │ INFO    │   [53/151] Kecamatan Tabunganen — Kab. Barito Kuala
+19:14:37 │ INFO    │   ✓ Subdomain verified: baritokualakab.bps.go.id
+19:14:37 │ INFO    │     🔍 Searching: Tabunganen Dalam Angka 2025
+19:14:40 │ INFO    │     → Found 1 result(s), checking titles...
+19:14:40 │ INFO    │     → No matching title for 2025
+19:14:40 │ INFO    │     🔍 Searching: Kecamatan Tabunganen Dalam Angka 2025
+19:14:42 │ INFO    │     → Found 1 result(s), checking titles...
+19:14:42 │ INFO    │     → No matching title for 2025
+19:14:42 │ INFO    │     🔍 Searching: Tabunganen Dalam Angka 2024
+19:14:45 │ INFO    │     → Found 2 result(s), checking titles...
+19:14:45 │ INFO    │     ✓ Found: Kecamatan Tabunganen Dalam Angka 2024
+19:16:06 │ INFO    │     ✅ Downloaded (urllib): Kec_Tabunganen_Dalam_Angka_2024.pdf (3207 KB)
+19:16:06 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:16:10 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:16:10 │ INFO    │   [54/151] Kecamatan Tamban — Kab. Barito Kuala
+19:16:10 │ INFO    │     🔍 Searching: Tamban Dalam Angka 2025
+19:16:13 │ INFO    │     → Found 2 result(s), checking titles...
+19:16:13 │ INFO    │     ✓ Found: Kecamatan Tamban Dalam Angka 2025
+19:17:22 │ INFO    │     ✅ Downloaded (urllib): Kec_Tamban_Dalam_Angka_2025.pdf (6007 KB)
+19:17:22 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:17:27 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:17:27 │ INFO    │   [55/151] Kecamatan Anjir Pasar — Kab. Barito Kuala
+19:17:27 │ INFO    │     🔍 Searching: Anjir Pasar Dalam Angka 2025
+19:17:31 │ INFO    │     → Found 2 result(s), checking titles...
+19:17:31 │ INFO    │     ✓ Found: Kecamatan Anjir Pasar Dalam Angka 2025
+19:18:38 │ INFO    │     ✅ Downloaded (urllib): Kec_Anjir_Pasar_Dalam_Angka_2025.pdf (6023 KB)
+19:18:38 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:18:43 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:18:43 │ INFO    │   [56/151] Kecamatan Anjir Muara — Kab. Barito Kuala
+19:18:43 │ INFO    │     🔍 Searching: Anjir Muara Dalam Angka 2025
+19:18:45 │ INFO    │     → Found 2 result(s), checking titles...
+19:18:45 │ INFO    │     ✓ Found: Kecamatan Anjir Muara Dalam Angka 2025
+19:19:53 │ INFO    │     ✅ Downloaded (urllib): Kec_Anjir_Muara_Dalam_Angka_2025.pdf (6050 KB)
+19:19:53 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:19:57 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:19:57 │ INFO    │   [57/151] Kecamatan Alalak — Kab. Barito Kuala
+19:19:57 │ INFO    │     🔍 Searching: Alalak Dalam Angka 2025
+19:20:01 │ INFO    │     → Found 2 result(s), checking titles...
+19:20:01 │ INFO    │     ✓ Found: Kecamatan Alalak Dalam Angka 2025
+19:21:08 │ INFO    │     ✅ Downloaded (urllib): Kec_Alalak_Dalam_Angka_2025.pdf (6135 KB)
+19:21:08 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:21:12 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:21:12 │ INFO    │   [58/151] Kecamatan Mandastana — Kab. Barito Kuala
+19:21:12 │ INFO    │     🔍 Searching: Mandastana Dalam Angka 2025
+19:21:15 │ INFO    │     → Found 2 result(s), checking titles...
+19:21:15 │ INFO    │     ✓ Found: Kecamatan Mandastana Dalam Angka 2025
+19:22:23 │ INFO    │     ✅ Downloaded (urllib): Kec_Mandastana_Dalam_Angka_2025.pdf (6048 KB)
+19:22:23 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:22:26 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:22:26 │ INFO    │   [59/151] Kecamatan Rantau Badauh — Kab. Barito Kuala
+19:22:26 │ INFO    │     🔍 Searching: Rantau Badauh Dalam Angka 2025
+19:22:30 │ INFO    │     → Found 2 result(s), checking titles...
+19:22:30 │ INFO    │     ✓ Found: Kecamatan Rantau Badauh Dalam Angka 2025
+19:23:37 │ INFO    │     ✅ Downloaded (urllib): Kec_Rantau_Badauh_Dalam_Angka_2025.pdf (5919 KB)
+19:23:37 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:23:41 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:23:41 │ INFO    │   [60/151] Kecamatan Belawang — Kab. Barito Kuala
+19:23:41 │ INFO    │     🔍 Searching: Belawang Dalam Angka 2025
+19:23:45 │ INFO    │     → Found 2 result(s), checking titles...
+19:23:45 │ INFO    │     ✓ Found: Kecamatan Belawang Dalam Angka 2025
+19:24:52 │ INFO    │     ✅ Downloaded (urllib): Kec_Belawang_Dalam_Angka_2025.pdf (5982 KB)
+19:24:52 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:24:57 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:24:57 │ INFO    │   [61/151] Kecamatan Cerbon — Kab. Barito Kuala
+19:24:57 │ INFO    │     🔍 Searching: Cerbon Dalam Angka 2025
+19:25:01 │ INFO    │     → Found 2 result(s), checking titles...
+19:25:01 │ INFO    │     ✓ Found: Kecamatan Cerbon Dalam Angka 2025
+19:26:11 │ INFO    │     ✅ Downloaded (urllib): Kec_Cerbon_Dalam_Angka_2025.pdf (6211 KB)
+19:26:11 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:26:16 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:26:16 │ INFO    │   [62/151] Kecamatan Bakumpai — Kab. Barito Kuala
+19:26:16 │ INFO    │     🔍 Searching: Bakumpai Dalam Angka 2025
+19:26:19 │ INFO    │     → Found 2 result(s), checking titles...
+19:26:19 │ INFO    │     ✓ Found: Kecamatan Bakumpai Dalam Angka 2025
+19:27:27 │ INFO    │     ✅ Downloaded (urllib): Kec_Bakumpai_Dalam_Angka_2025.pdf (6369 KB)
+19:27:27 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:27:31 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:27:31 │ INFO    │   [63/151] Kecamatan Kuripan — Kab. Barito Kuala
+19:27:31 │ INFO    │     🔍 Searching: Kuripan Dalam Angka 2025
+19:27:33 │ INFO    │     → Found 1 result(s), checking titles...
+19:27:33 │ INFO    │     → No matching title for 2025
+19:27:33 │ INFO    │     🔍 Searching: Kecamatan Kuripan Dalam Angka 2025
+19:27:37 │ INFO    │     → Found 2 result(s), checking titles...
+19:27:37 │ INFO    │     ✓ Found: Kecamatan Kuripan Dalam Angka 2025
+19:28:45 │ INFO    │     ✅ Downloaded (urllib): Kec_Kuripan_Dalam_Angka_2025.pdf (5805 KB)
+19:28:45 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:28:50 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:28:50 │ INFO    │   [64/151] Kecamatan Tabukan — Kab. Barito Kuala
+19:28:50 │ INFO    │     🔍 Searching: Tabukan Dalam Angka 2025
+19:28:52 │ INFO    │     → Found 2 result(s), checking titles...
+19:28:52 │ INFO    │     ✓ Found: Kecamatan Tabukan Dalam Angka 2025
+19:30:03 │ INFO    │     ✅ Downloaded (urllib): Kec_Tabukan_Dalam_Angka_2025.pdf (6270 KB)
+19:30:03 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:30:08 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:30:08 │ INFO    │   [65/151] Kecamatan Mekar Sari — Kab. Barito Kuala
+19:30:08 │ INFO    │     🔍 Searching: Mekar Sari Dalam Angka 2025
+19:30:12 │ INFO    │     → Found 1 result(s), checking titles...
+19:30:12 │ INFO    │     → No matching title for 2025
+19:30:12 │ INFO    │     🔍 Searching: Kecamatan Mekar Sari Dalam Angka 2025
+19:30:15 │ INFO    │     → Found 1 result(s), checking titles...
+19:30:15 │ INFO    │     → No matching title for 2025
+19:30:15 │ INFO    │     🔍 Searching: Mekar Sari Dalam Angka 2024
+19:30:18 │ INFO    │     → Found 1 result(s), checking titles...
+19:30:18 │ INFO    │     → No matching title for 2024
+19:30:18 │ INFO    │     🔍 Searching: Kecamatan Mekar Sari Dalam Angka 2024
+19:30:21 │ INFO    │     → Found 1 result(s), checking titles...
+19:30:21 │ INFO    │     → No matching title for 2024
+19:30:21 │ INFO    │     🔍 Searching: Mekar Sari Dalam Angka 2023
+19:30:24 │ INFO    │     → Found 1 result(s), checking titles...
+19:30:24 │ INFO    │     → No matching title for 2023
+19:30:24 │ INFO    │     🔍 Searching: Kecamatan Mekar Sari Dalam Angka 2023
+19:30:27 │ INFO    │     → Found 1 result(s), checking titles...
+19:30:27 │ INFO    │     → No matching title for 2023
+19:30:27 │ WARNING │   ✖ No publication found for Kecamatan Mekar Sari
+19:30:27 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:30:33 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:30:33 │ INFO    │   [66/151] Kecamatan Barambai — Kab. Barito Kuala
+19:30:33 │ INFO    │     🔍 Searching: Barambai Dalam Angka 2025
+19:30:37 │ INFO    │     → Found 2 result(s), checking titles...
+19:30:37 │ INFO    │     ✓ Found: Kecamatan Barambai Dalam Angka 2025
+19:31:47 │ INFO    │     ✅ Downloaded (urllib): Kec_Barambai_Dalam_Angka_2025.pdf (6070 KB)
+19:31:47 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:31:53 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:31:53 │ INFO    │   [67/151] Kecamatan Marabahan — Kab. Barito Kuala
+19:31:53 │ INFO    │     🔍 Searching: Marabahan Dalam Angka 2025
+19:31:57 │ INFO    │     → Found 2 result(s), checking titles...
+19:31:57 │ INFO    │     ✓ Found: Kecamatan Marabahan Dalam Angka 2025
+19:33:05 │ INFO    │     ✅ Downloaded (urllib): Kec_Marabahan_Dalam_Angka_2025.pdf (6055 KB)
+19:33:05 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:33:09 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:33:09 │ INFO    │   [68/151] Kecamatan Wanaraya — Kab. Barito Kuala
+19:33:09 │ INFO    │     🔍 Searching: Wanaraya Dalam Angka 2025
+19:33:13 │ INFO    │     → Found 2 result(s), checking titles...
+19:33:13 │ INFO    │     ✓ Found: Kecamatan Wanaraya Dalam Angka 2025
+19:34:21 │ INFO    │     ✅ Downloaded (urllib): Kec_Wanaraya_Dalam_Angka_2025.pdf (5959 KB)
+19:34:21 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:34:26 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:34:26 │ INFO    │   [69/151] Kecamatan Jejangkit — Kab. Barito Kuala
+19:34:26 │ INFO    │     🔍 Searching: Jejangkit Dalam Angka 2025
+19:34:29 │ INFO    │     → Found 2 result(s), checking titles...
+19:34:29 │ INFO    │     ✓ Found: Kecamatan Jejangkit Dalam Angka 2025
+19:35:39 │ INFO    │     ✅ Downloaded (urllib): Kec_Jejangkit_Dalam_Angka_2025.pdf (5853 KB)
+19:35:39 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:35:43 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:35:43 │ INFO    │   [70/151] Kecamatan Binuang — Kab. Tapin
+19:35:45 │ INFO    │   ✓ Subdomain verified: tapinkab.bps.go.id
+19:35:45 │ INFO    │     🔍 Searching: Binuang Dalam Angka 2025
+19:35:48 │ INFO    │     → Found 1 result(s), checking titles...
+19:35:48 │ INFO    │     ✓ Found: Kecamatan Binuang Dalam Angka 2025
+19:36:59 │ INFO    │     ✅ Downloaded (urllib): Kec_Binuang_Dalam_Angka_2025.pdf (9932 KB)
+19:36:59 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:37:04 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:37:04 │ INFO    │   [71/151] Kecamatan Tapin Selatan — Kab. Tapin
+19:37:04 │ INFO    │     🔍 Searching: Tapin Selatan Dalam Angka 2025
+19:37:07 │ INFO    │     → Found 1 result(s), checking titles...
+19:37:07 │ INFO    │     ✓ Found: Kecamatan Tapin Selatan Dalam Angka 2025
+19:38:19 │ INFO    │     ✅ Downloaded (urllib): Kec_Tapin_Selatan_Dalam_Angka_2025.pdf (9923 KB)
+19:38:19 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:38:22 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:38:22 │ INFO    │   [72/151] Kecamatan Tapin Tengah — Kab. Tapin
+19:38:22 │ INFO    │     🔍 Searching: Tapin Tengah Dalam Angka 2025
+19:38:25 │ INFO    │     → No results
+19:38:25 │ INFO    │     🔍 Searching: Kecamatan Tapin Tengah Dalam Angka 2025
+19:38:28 │ INFO    │     → Found 1 result(s), checking titles...
+19:38:28 │ INFO    │     ✓ Found: Kecamatan Tapin Tengah Dalam Angka 2025
+19:39:43 │ INFO    │     ✅ Downloaded (urllib): Kec_Tapin_Tengah_Dalam_Angka_2025.pdf (10339 KB)
+19:39:43 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:39:47 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:39:47 │ INFO    │   [73/151] Kecamatan Tapin Utara — Kab. Tapin
+19:39:47 │ INFO    │     🔍 Searching: Tapin Utara Dalam Angka 2025
+19:39:51 │ INFO    │     → Found 1 result(s), checking titles...
+19:39:51 │ INFO    │     ✓ Found: Kecamatan Tapin Utara Dalam Angka 2025
+19:41:02 │ INFO    │     ✅ Downloaded (urllib): Kec_Tapin_Utara_Dalam_Angka_2025.pdf (10255 KB)
+19:41:02 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:41:05 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:41:05 │ INFO    │   [74/151] Kecamatan Candi Laras Selatan — Kab. Tapin
+19:41:05 │ INFO    │     🔍 Searching: Candi Laras Selatan Dalam Angka 2025
+19:41:07 │ INFO    │     → No results
+19:41:07 │ INFO    │     🔍 Searching: Kecamatan Candi Laras Selatan Dalam Angka 2025
+19:41:10 │ INFO    │     → Found 1 result(s), checking titles...
+19:41:10 │ INFO    │     ✓ Found: Kecamatan Candi Laras Selatan Dalam Angka 2025
+19:42:24 │ INFO    │     ✅ Downloaded (urllib): Kec_Candi_Laras_Selatan_Dalam_Angka_2025.pdf (10056 KB)
+19:42:24 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:42:27 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:42:27 │ INFO    │   [75/151] Kecamatan Candi Laras Utara — Kab. Tapin
+19:42:27 │ INFO    │     🔍 Searching: Candi Laras Utara Dalam Angka 2025
+19:42:30 │ INFO    │     → Found 1 result(s), checking titles...
+19:42:30 │ INFO    │     ✓ Found: Kecamatan Candi Laras Utara Dalam Angka 2025
+19:43:45 │ INFO    │     ✅ Downloaded (urllib): Kec_Candi_Laras_Utara_Dalam_Angka_2025.pdf (10101 KB)
+19:43:45 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:43:49 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:43:49 │ INFO    │   [76/151] Kecamatan Bakarangan — Kab. Tapin
+19:43:49 │ INFO    │     🔍 Searching: Bakarangan Dalam Angka 2025
+19:43:52 │ INFO    │     → Found 1 result(s), checking titles...
+19:43:52 │ INFO    │     ✓ Found: Kecamatan Bakarangan Dalam Angka 2025
+19:45:03 │ INFO    │     ✅ Downloaded (urllib): Kec_Bakarangan_Dalam_Angka_2025.pdf (9867 KB)
+19:45:03 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:45:08 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:45:08 │ INFO    │   [77/151] Kecamatan Piani — Kab. Tapin
+19:45:08 │ INFO    │     🔍 Searching: Piani Dalam Angka 2025
+19:45:11 │ INFO    │     → Found 1 result(s), checking titles...
+19:45:11 │ INFO    │     ✓ Found: Kecamatan Piani Dalam Angka 2025
+19:46:26 │ INFO    │     ✅ Downloaded (urllib): Kec_Piani_Dalam_Angka_2025.pdf (9288 KB)
+19:46:26 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:46:30 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:46:30 │ INFO    │   [78/151] Kecamatan Bungur — Kab. Tapin
+19:46:30 │ INFO    │     🔍 Searching: Bungur Dalam Angka 2025
+19:46:33 │ INFO    │     → No results
+19:46:33 │ INFO    │     🔍 Searching: Kecamatan Bungur Dalam Angka 2025
+19:46:36 │ INFO    │     → Found 1 result(s), checking titles...
+19:46:36 │ INFO    │     ✓ Found: Kecamatan Bungur Dalam Angka 2025
+19:47:46 │ INFO    │     ✅ Downloaded (urllib): Kec_Bungur_Dalam_Angka_2025.pdf (9690 KB)
+19:47:46 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:47:50 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:47:50 │ INFO    │   [79/151] Kecamatan Lokpaikat — Kab. Tapin
+19:47:50 │ INFO    │     🔍 Searching: Lokpaikat Dalam Angka 2025
+19:47:53 │ INFO    │     → Found 1 result(s), checking titles...
+19:47:53 │ INFO    │     ✓ Found: Kecamatan Lokpaikat Dalam Angka 2025
+19:49:11 │ INFO    │     ✅ Downloaded (urllib): Kec_Lokpaikat_Dalam_Angka_2025.pdf (9546 KB)
+19:49:11 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:49:15 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:49:15 │ INFO    │   [80/151] Kecamatan Hatungun — Kab. Tapin
+19:49:15 │ INFO    │     🔍 Searching: Hatungun Dalam Angka 2025
+19:49:17 │ INFO    │     → No results
+19:49:17 │ INFO    │     🔍 Searching: Kecamatan Hatungun Dalam Angka 2025
+19:49:21 │ INFO    │     → Found 1 result(s), checking titles...
+19:49:21 │ INFO    │     ✓ Found: Kecamatan Hatungun Dalam Angka 2025
+19:50:41 │ INFO    │     ✅ Downloaded (urllib): Kec_Hatungun_Dalam_Angka_2025.pdf (10432 KB)
+19:50:41 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:50:44 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:50:44 │ INFO    │   [81/151] Kecamatan Salam Babaris — Kab. Tapin
+19:50:44 │ INFO    │     🔍 Searching: Salam Babaris Dalam Angka 2025
+19:50:48 │ INFO    │     → Found 1 result(s), checking titles...
+19:50:48 │ INFO    │     ✓ Found: Kecamatan Salam Babaris Dalam Angka 2025
+19:52:00 │ INFO    │     ✅ Downloaded (urllib): Kec_Salam_Babaris_Dalam_Angka_2025.pdf (9536 KB)
+19:52:00 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:52:04 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:52:04 │ INFO    │   [82/151] Kecamatan Sungai Raya — Kab. Hulu Sungai Selatan
+19:52:05 │ INFO    │   ✓ Subdomain verified: hulusungaiselatankab.bps.go.id
+19:52:05 │ INFO    │     🔍 Searching: Sungai Raya Dalam Angka 2025
+19:52:08 │ INFO    │     → Found 1 result(s), checking titles...
+19:52:08 │ INFO    │     ✓ Found: Kecamatan Sungai Raya Dalam Angka 2025
+19:53:19 │ INFO    │     ✅ Downloaded (urllib): Kec_Sungai_Raya_Dalam_Angka_2025.pdf (6603 KB)
+19:53:19 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:53:22 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:53:22 │ INFO    │   [83/151] Kecamatan Padang Batung — Kab. Hulu Sungai Selatan
+19:53:22 │ INFO    │     🔍 Searching: Padang Batung Dalam Angka 2025
+19:53:25 │ INFO    │     → Found 1 result(s), checking titles...
+19:53:25 │ INFO    │     ✓ Found: Kecamatan Padang Batung Dalam Angka 2025
+19:54:37 │ INFO    │     ✅ Downloaded (urllib): Kec_Padang_Batung_Dalam_Angka_2025.pdf (6562 KB)
+19:54:37 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:54:40 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:54:40 │ INFO    │   [84/151] Kecamatan Telaga Langsat — Kab. Hulu Sungai Selatan
+19:54:40 │ INFO    │     🔍 Searching: Telaga Langsat Dalam Angka 2025
+19:54:43 │ INFO    │     → No results
+19:54:43 │ INFO    │     🔍 Searching: Kecamatan Telaga Langsat Dalam Angka 2025
+19:54:45 │ INFO    │     → Found 1 result(s), checking titles...
+19:54:45 │ INFO    │     ✓ Found: Kecamatan Telaga Langsat Dalam Angka 2025
+19:55:55 │ INFO    │     ✅ Downloaded (urllib): Kec_Telaga_Langsat_Dalam_Angka_2025.pdf (7656 KB)
+19:55:55 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:56:00 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:56:00 │ INFO    │   [85/151] Kecamatan Angkinang — Kab. Hulu Sungai Selatan
+19:56:00 │ INFO    │     🔍 Searching: Angkinang Dalam Angka 2025
+19:56:03 │ INFO    │     → Found 1 result(s), checking titles...
+19:56:03 │ INFO    │     ✓ Found: Kecamatan Angkinang Dalam Angka 2025
+19:57:09 │ INFO    │     ✅ Downloaded (urllib): Kec_Angkinang_Dalam_Angka_2025.pdf (1877 KB)
+19:57:09 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:57:13 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:57:13 │ INFO    │   [86/151] Kecamatan Kandangan — Kab. Hulu Sungai Selatan
+19:57:13 │ INFO    │     🔍 Searching: Kandangan Dalam Angka 2025
+19:57:16 │ INFO    │     → Found 1 result(s), checking titles...
+19:57:16 │ INFO    │     ✓ Found: Kecamatan Kandangan Dalam Angka 2025
+19:58:26 │ INFO    │     ✅ Downloaded (urllib): Kec_Kandangan_Dalam_Angka_2025.pdf (5928 KB)
+19:58:26 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:58:29 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:58:29 │ INFO    │   [87/151] Kecamatan Simpur — Kab. Hulu Sungai Selatan
+19:58:29 │ INFO    │     🔍 Searching: Simpur Dalam Angka 2025
+19:58:31 │ INFO    │     → Found 1 result(s), checking titles...
+19:58:31 │ INFO    │     ✓ Found: Kecamatan Simpur Dalam Angka 2025
+19:59:39 │ INFO    │     ✅ Downloaded (urllib): Kec_Simpur_Dalam_Angka_2025.pdf (5348 KB)
+19:59:39 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+19:59:43 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+19:59:43 │ INFO    │   [88/151] Kecamatan Daha Selatan — Kab. Hulu Sungai Selatan
+19:59:43 │ INFO    │     🔍 Searching: Daha Selatan Dalam Angka 2025
+19:59:46 │ INFO    │     → No results
+19:59:46 │ INFO    │     🔍 Searching: Kecamatan Daha Selatan Dalam Angka 2025
+19:59:49 │ INFO    │     → Found 1 result(s), checking titles...
+19:59:49 │ INFO    │     ✓ Found: Kecamatan Daha Selatan Dalam Angka 2025
+20:00:58 │ INFO    │     ✅ Downloaded (urllib): Kec_Daha_Selatan_Dalam_Angka_2025.pdf (5962 KB)
+20:00:58 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:01:03 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:01:03 │ INFO    │   [89/151] Kecamatan Daha Utara — Kab. Hulu Sungai Selatan
+20:01:03 │ INFO    │     🔍 Searching: Daha Utara Dalam Angka 2025
+20:01:05 │ INFO    │     → Found 1 result(s), checking titles...
+20:01:05 │ INFO    │     ✓ Found: Kecamatan Daha Utara Dalam Angka 2025
+20:02:14 │ INFO    │     ✅ Downloaded (urllib): Kec_Daha_Utara_Dalam_Angka_2025.pdf (5683 KB)
+20:02:14 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:02:18 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:02:18 │ INFO    │   [90/151] Kecamatan Kalumpang — Kab. Hulu Sungai Selatan
+20:02:18 │ INFO    │     🔍 Searching: Kalumpang Dalam Angka 2025
+20:02:21 │ INFO    │     → Found 1 result(s), checking titles...
+20:02:21 │ INFO    │     ✓ Found: Kecamatan Kalumpang Dalam Angka 2025
+20:03:31 │ INFO    │     ✅ Downloaded (urllib): Kec_Kalumpang_Dalam_Angka_2025.pdf (5136 KB)
+20:03:31 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:03:36 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:03:36 │ INFO    │   [91/151] Kecamatan Loksado — Kab. Hulu Sungai Selatan
+20:03:36 │ INFO    │     🔍 Searching: Loksado Dalam Angka 2025
+20:03:40 │ INFO    │     → Found 1 result(s), checking titles...
+20:03:40 │ INFO    │     ✓ Found: Kecamatan Loksado Dalam Angka 2025
+20:04:53 │ INFO    │     ✅ Downloaded (urllib): Kec_Loksado_Dalam_Angka_2025.pdf (7517 KB)
+20:04:53 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:04:57 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:04:57 │ INFO    │   [92/151] Kecamatan Daha Barat — Kab. Hulu Sungai Selatan
+20:04:57 │ INFO    │     🔍 Searching: Daha Barat Dalam Angka 2025
+20:05:00 │ INFO    │     → No results
+20:05:00 │ INFO    │     🔍 Searching: Kecamatan Daha Barat Dalam Angka 2025
+20:05:02 │ INFO    │     → Found 1 result(s), checking titles...
+20:05:02 │ INFO    │     ✓ Found: Kecamatan Daha Barat Dalam Angka 2025
+20:06:12 │ INFO    │     ✅ Downloaded (urllib): Kec_Daha_Barat_Dalam_Angka_2025.pdf (6049 KB)
+20:06:12 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:06:18 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:06:18 │ INFO    │   [93/151] Kecamatan Haruyan — Kab. Hulu Sungai Tengah
+20:06:19 │ INFO    │   ✓ Subdomain verified: hulusungaitengahkab.bps.go.id
+20:06:19 │ INFO    │     🔍 Searching: Haruyan Dalam Angka 2025
+20:06:22 │ INFO    │     → Found 1 result(s), checking titles...
+20:06:22 │ INFO    │     → No matching title for 2025
+20:06:22 │ INFO    │     🔍 Searching: Kecamatan Haruyan Dalam Angka 2025
+20:06:25 │ INFO    │     → Found 2 result(s), checking titles...
+20:06:25 │ INFO    │     ✓ Found: Kecamatan Haruyan Dalam Angka 2025
+20:07:32 │ INFO    │     ✅ Downloaded (urllib): Kec_Haruyan_Dalam_Angka_2025.pdf (5801 KB)
+20:07:32 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:07:36 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:07:36 │ INFO    │   [94/151] Kecamatan Batu Benawa — Kab. Hulu Sungai Tengah
+20:07:36 │ INFO    │     🔍 Searching: Batu Benawa Dalam Angka 2025
+20:07:40 │ INFO    │     → Found 2 result(s), checking titles...
+20:07:40 │ INFO    │     ✓ Found: Kecamatan Batu Benawa Dalam Angka 2025
+20:08:49 │ INFO    │     ✅ Downloaded (urllib): Kec_Batu_Benawa_Dalam_Angka_2025.pdf (6821 KB)
+20:08:49 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:08:55 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:08:55 │ INFO    │   [95/151] Kecamatan Labuan Amas Selatan — Kab. Hulu Sungai Tengah
+20:08:55 │ INFO    │     🔍 Searching: Labuan Amas Selatan Dalam Angka 2025
+20:08:58 │ INFO    │     → Found 1 result(s), checking titles...
+20:08:58 │ INFO    │     → No matching title for 2025
+20:08:58 │ INFO    │     🔍 Searching: Kecamatan Labuan Amas Selatan Dalam Angka 2025
+20:09:01 │ INFO    │     → Found 2 result(s), checking titles...
+20:09:01 │ INFO    │     ✓ Found: Kecamatan Labuan Amas Selatan Dalam Angka 2025
+20:10:10 │ INFO    │     ✅ Downloaded (urllib): Kec_Labuan_Amas_Selatan_Dalam_Angka_2025.pdf (6091 KB)
+20:10:10 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:10:16 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:10:16 │ INFO    │   [96/151] Kecamatan Labuan Amas Utara — Kab. Hulu Sungai Tengah
+20:10:16 │ INFO    │     🔍 Searching: Labuan Amas Utara Dalam Angka 2025
+20:10:19 │ INFO    │     → Found 2 result(s), checking titles...
+20:10:19 │ INFO    │     ✓ Found: Kecamatan Labuan Amas Utara Dalam Angka 2025
+20:11:34 │ INFO    │     ✅ Downloaded (urllib): Kec_Labuan_Amas_Utara_Dalam_Angka_2025.pdf (5803 KB)
+20:11:34 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:11:38 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:11:38 │ INFO    │   [97/151] Kecamatan Pandawan — Kab. Hulu Sungai Tengah
+20:11:38 │ INFO    │     🔍 Searching: Pandawan Dalam Angka 2025
+20:11:42 │ INFO    │     → Found 2 result(s), checking titles...
+20:11:42 │ INFO    │     ✓ Found: Kecamatan Pandawan Dalam Angka 2025
+20:12:49 │ INFO    │     ✅ Downloaded (urllib): Kec_Pandawan_Dalam_Angka_2025.pdf (5977 KB)
+20:12:49 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:12:55 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:12:55 │ INFO    │   [98/151] Kecamatan Barabai — Kab. Hulu Sungai Tengah
+20:12:55 │ INFO    │     🔍 Searching: Barabai Dalam Angka 2025
+20:12:58 │ INFO    │     → Found 2 result(s), checking titles...
+20:12:58 │ INFO    │     ✓ Found: Kecamatan Barabai Dalam Angka 2025
+20:14:11 │ INFO    │     ✅ Downloaded (urllib): Kec_Barabai_Dalam_Angka_2025.pdf (7197 KB)
+20:14:11 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:14:16 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:14:16 │ INFO    │   [99/151] Kecamatan Batang Alai Selatan — Kab. Hulu Sungai Tengah
+20:14:16 │ INFO    │     🔍 Searching: Batang Alai Selatan Dalam Angka 2025
+20:14:20 │ INFO    │     → Found 2 result(s), checking titles...
+20:14:20 │ INFO    │     ✓ Found: Kecamatan Batang Alai Selatan Dalam Angka 2025
+20:15:28 │ INFO    │     ✅ Downloaded (urllib): Kec_Batang_Alai_Selatan_Dalam_Angka_2025.pdf (5847 KB)
+20:15:28 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:15:32 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:15:32 │ INFO    │   [100/151] Kecamatan Batang Alai Utara — Kab. Hulu Sungai Tengah
+20:15:32 │ INFO    │     🔍 Searching: Batang Alai Utara Dalam Angka 2025
+20:15:35 │ INFO    │     → Found 2 result(s), checking titles...
+20:15:35 │ INFO    │     ✓ Found: Kecamatan Batang Alai Utara Dalam Angka 2025
+20:16:43 │ INFO    │     ✅ Downloaded (urllib): Kec_Batang_Alai_Utara_Dalam_Angka_2025.pdf (5812 KB)
+20:16:43 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:16:48 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:16:48 │ INFO    │   [101/151] Kecamatan Batang Alai Timur — Kab. Hulu Sungai Tengah
+20:16:48 │ INFO    │     🔍 Searching: Batang Alai Timur Dalam Angka 2025
+20:16:51 │ INFO    │     → Found 1 result(s), checking titles...
+20:16:51 │ INFO    │     → No matching title for 2025
+20:16:51 │ INFO    │     🔍 Searching: Kecamatan Batang Alai Timur Dalam Angka 2025
+20:16:54 │ INFO    │     → Found 2 result(s), checking titles...
+20:16:54 │ INFO    │     ✓ Found: Kecamatan Batang Alai Timur Dalam Angka 2025
+20:18:03 │ INFO    │     ✅ Downloaded (urllib): Kec_Batang_Alai_Timur_Dalam_Angka_2025.pdf (5759 KB)
+20:18:03 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:18:07 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:18:07 │ INFO    │   [102/151] Kecamatan Limpasu — Kab. Hulu Sungai Tengah
+20:18:07 │ INFO    │     🔍 Searching: Limpasu Dalam Angka 2025
+20:18:10 │ INFO    │     → Found 2 result(s), checking titles...
+20:18:10 │ INFO    │     ✓ Found: Kecamatan Limpasu Dalam Angka 2025
+20:19:19 │ INFO    │     ✅ Downloaded (urllib): Kec_Limpasu_Dalam_Angka_2025.pdf (7601 KB)
+20:19:19 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:19:23 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:19:23 │ INFO    │   [103/151] Kecamatan Danau Panggang — Kab. Hulu Sungai Utara
+20:19:25 │ INFO    │   ✓ Subdomain verified: hulusungaiutarakab.bps.go.id
+20:19:25 │ INFO    │     🔍 Searching: Danau Panggang Dalam Angka 2025
+20:19:28 │ INFO    │     → No results
+20:19:28 │ INFO    │     🔍 Searching: Kecamatan Danau Panggang Dalam Angka 2025
+20:19:31 │ INFO    │     → Found 1 result(s), checking titles...
+20:19:31 │ INFO    │     ✓ Found: Kecamatan Danau Panggang Dalam Angka 2025
+20:20:43 │ INFO    │     ✅ Downloaded (urllib): Kec_Danau_Panggang_Dalam_Angka_2025.pdf (8010 KB)
+20:20:43 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:20:46 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:20:46 │ INFO    │   [104/151] Kecamatan Babirik — Kab. Hulu Sungai Utara
+20:20:46 │ INFO    │     🔍 Searching: Babirik Dalam Angka 2025
+20:20:49 │ INFO    │     → Found 1 result(s), checking titles...
+20:20:49 │ INFO    │     ✓ Found: Kecamatan Babirik Dalam Angka 2025
+20:22:01 │ INFO    │     ✅ Downloaded (urllib): Kec_Babirik_Dalam_Angka_2025.pdf (8080 KB)
+20:22:01 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:22:07 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:22:07 │ INFO    │   [105/151] Kecamatan Sungai Pandan — Kab. Hulu Sungai Utara
+20:22:07 │ INFO    │     🔍 Searching: Sungai Pandan Dalam Angka 2025
+20:22:10 │ INFO    │     → No results
+20:22:10 │ INFO    │     🔍 Searching: Kecamatan Sungai Pandan Dalam Angka 2025
+20:22:12 │ INFO    │     → Found 1 result(s), checking titles...
+20:22:12 │ INFO    │     ✓ Found: Kecamatan Sungai Pandan Dalam Angka 2025
+20:23:22 │ INFO    │     ✅ Downloaded (urllib): Kec_Sungai_Pandan_Dalam_Angka_2025.pdf (8478 KB)
+20:23:22 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:23:28 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:23:28 │ INFO    │   [106/151] Kecamatan Amuntai Selatan — Kab. Hulu Sungai Utara
+20:23:28 │ INFO    │     🔍 Searching: Amuntai Selatan Dalam Angka 2025
+20:23:31 │ INFO    │     → Found 1 result(s), checking titles...
+20:23:31 │ INFO    │     ✓ Found: Kecamatan Amuntai Selatan Dalam Angka 2025
+20:24:40 │ INFO    │     ✅ Downloaded (urllib): Kec_Amuntai_Selatan_Dalam_Angka_2025.pdf (8552 KB)
+20:24:40 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:24:44 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:24:44 │ INFO    │   [107/151] Kecamatan Amuntai Tengah — Kab. Hulu Sungai Utara
+20:24:44 │ INFO    │     🔍 Searching: Amuntai Tengah Dalam Angka 2025
+20:24:46 │ INFO    │     → No results
+20:24:46 │ INFO    │     🔍 Searching: Kecamatan Amuntai Tengah Dalam Angka 2025
+20:24:49 │ INFO    │     → Found 1 result(s), checking titles...
+20:24:49 │ INFO    │     ✓ Found: Kecamatan Amuntai Tengah Dalam Angka 2025
+20:26:00 │ INFO    │     ✅ Downloaded (urllib): Kec_Amuntai_Tengah_Dalam_Angka_2025.pdf (8109 KB)
+20:26:00 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:26:05 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:26:05 │ INFO    │   [108/151] Kecamatan Amuntai Utara — Kab. Hulu Sungai Utara
+20:26:05 │ INFO    │     🔍 Searching: Amuntai Utara Dalam Angka 2025
+20:26:08 │ INFO    │     → Found 1 result(s), checking titles...
+20:26:08 │ INFO    │     ✓ Found: Kecamatan Amuntai Utara Dalam Angka 2025
+20:27:18 │ INFO    │     ✅ Downloaded (urllib): Kec_Amuntai_Utara_Dalam_Angka_2025.pdf (8230 KB)
+20:27:18 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:27:24 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:27:24 │ INFO    │   [109/151] Kecamatan Banjang — Kab. Hulu Sungai Utara
+20:27:24 │ INFO    │     🔍 Searching: Banjang Dalam Angka 2025
+20:27:27 │ INFO    │     → Found 1 result(s), checking titles...
+20:27:27 │ INFO    │     ✓ Found: Kecamatan Banjang Dalam Angka 2025
+20:28:40 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjang_Dalam_Angka_2025.pdf (8395 KB)
+20:28:40 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:28:44 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:28:44 │ INFO    │   [110/151] Kecamatan Haur Gading — Kab. Hulu Sungai Utara
+20:28:44 │ INFO    │     🔍 Searching: Haur Gading Dalam Angka 2025
+20:28:46 │ INFO    │     → Found 1 result(s), checking titles...
+20:28:46 │ INFO    │     ✓ Found: Kecamatan Haur Gading Dalam Angka 2025
+20:29:55 │ INFO    │     ✅ Downloaded (urllib): Kec_Haur_Gading_Dalam_Angka_2025.pdf (8060 KB)
+20:29:55 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:30:00 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:30:00 │ INFO    │   [111/151] Kecamatan Paminggir — Kab. Hulu Sungai Utara
+20:30:00 │ INFO    │     🔍 Searching: Paminggir Dalam Angka 2025
+20:30:03 │ INFO    │     → No results
+20:30:03 │ INFO    │     🔍 Searching: Kecamatan Paminggir Dalam Angka 2025
+20:30:06 │ INFO    │     → Found 1 result(s), checking titles...
+20:30:06 │ INFO    │     ✓ Found: Kecamatan Paminggir Dalam Angka 2025
+20:31:14 │ INFO    │     ✅ Downloaded (urllib): Kec_Paminggir_Dalam_Angka_2025.pdf (7840 KB)
+20:31:14 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:31:18 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:31:18 │ INFO    │   [112/151] Kecamatan Sungai Tabukan — Kab. Hulu Sungai Utara
+20:31:18 │ INFO    │     🔍 Searching: Sungai Tabukan Dalam Angka 2025
+20:31:20 │ INFO    │     → Found 1 result(s), checking titles...
+20:31:20 │ INFO    │     ✓ Found: Kecamatan Sungai Tabukan Dalam Angka 2025
+20:32:33 │ INFO    │     ✅ Downloaded (urllib): Kec_Sungai_Tabukan_Dalam_Angka_2025.pdf (8043 KB)
+20:32:33 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:32:38 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:32:38 │ INFO    │   [113/151] Kecamatan Banua Lawas — Kab. Tabalong
+20:32:40 │ INFO    │   ✓ Subdomain verified: tabalongkab.bps.go.id
+20:32:40 │ INFO    │     🔍 Searching: Banua Lawas Dalam Angka 2025
+20:32:43 │ INFO    │     → No results
+20:32:43 │ INFO    │     🔍 Searching: Kecamatan Banua Lawas Dalam Angka 2025
+20:32:46 │ INFO    │     → Found 1 result(s), checking titles...
+20:32:46 │ INFO    │     ✓ Found: Kecamatan Banua Lawas Dalam Angka 2025
+20:33:58 │ INFO    │     ✅ Downloaded (urllib): Kec_Banua_Lawas_Dalam_Angka_2025.pdf (14922 KB)
+20:33:58 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:34:03 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:34:03 │ INFO    │   [114/151] Kecamatan Kelua — Kab. Tabalong
+20:34:03 │ INFO    │     🔍 Searching: Kelua Dalam Angka 2025
+20:34:05 │ INFO    │     → Found 1 result(s), checking titles...
+20:34:05 │ INFO    │     ✓ Found: Kecamatan Kelua Dalam Angka 2025
+20:35:16 │ INFO    │     ✅ Downloaded (urllib): Kec_Kelua_Dalam_Angka_2025.pdf (11426 KB)
+20:35:16 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:35:20 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:35:20 │ INFO    │   [115/151] Kecamatan Tanta — Kab. Tabalong
+20:35:20 │ INFO    │     🔍 Searching: Tanta Dalam Angka 2025
+20:35:23 │ INFO    │     → No results
+20:35:23 │ INFO    │     🔍 Searching: Kecamatan Tanta Dalam Angka 2025
+20:35:25 │ INFO    │     → Found 1 result(s), checking titles...
+20:35:25 │ INFO    │     ✓ Found: Kecamatan Tanta Dalam Angka 2025
+20:36:37 │ INFO    │     ✅ Downloaded (urllib): Kec_Tanta_Dalam_Angka_2025.pdf (12468 KB)
+20:36:37 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:36:41 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:36:41 │ INFO    │   [116/151] Kecamatan Tanjung — Kab. Tabalong
+20:36:41 │ INFO    │     🔍 Searching: Tanjung Dalam Angka 2025
+20:36:43 │ INFO    │     → Found 1 result(s), checking titles...
+20:36:43 │ INFO    │     ✓ Found: Kecamatan Tanjung Dalam Angka 2025
+20:37:52 │ INFO    │     ✅ Downloaded (urllib): Kec_Tanjung_Dalam_Angka_2025.pdf (9585 KB)
+20:37:52 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:37:57 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:37:57 │ INFO    │   [117/151] Kecamatan Haruai — Kab. Tabalong
+20:37:57 │ INFO    │     🔍 Searching: Haruai Dalam Angka 2025
+20:37:59 │ INFO    │     → No results
+20:37:59 │ INFO    │     🔍 Searching: Kecamatan Haruai Dalam Angka 2025
+20:38:03 │ INFO    │     → Found 1 result(s), checking titles...
+20:38:03 │ INFO    │     ✓ Found: Kecamatan Haruai Dalam Angka 2025
+20:39:19 │ INFO    │     ✅ Downloaded (urllib): Kec_Haruai_Dalam_Angka_2025.pdf (11470 KB)
+20:39:19 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:39:22 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:39:22 │ INFO    │   [118/151] Kecamatan Murung Pudak — Kab. Tabalong
+20:39:22 │ INFO    │     🔍 Searching: Murung Pudak Dalam Angka 2025
+20:39:25 │ INFO    │     → Found 1 result(s), checking titles...
+20:39:25 │ INFO    │     ✓ Found: Kecamatan Murung Pudak Dalam Angka 2025
+20:40:36 │ INFO    │     ✅ Downloaded (urllib): Kec_Murung_Pudak_Dalam_Angka_2025.pdf (9154 KB)
+20:40:36 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:40:41 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:40:41 │ INFO    │   [119/151] Kecamatan Muara Uya — Kab. Tabalong
+20:40:41 │ INFO    │     🔍 Searching: Muara Uya Dalam Angka 2025
+20:40:44 │ INFO    │     → Found 1 result(s), checking titles...
+20:40:44 │ INFO    │     ✓ Found: Kecamatan Muara Uya Dalam Angka 2025
+20:41:59 │ INFO    │     ✅ Downloaded (urllib): Kec_Muara_Uya_Dalam_Angka_2025.pdf (11212 KB)
+20:41:59 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:42:03 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:42:03 │ INFO    │   [120/151] Kecamatan Muara Harus — Kab. Tabalong
+20:42:03 │ INFO    │     🔍 Searching: Muara Harus Dalam Angka 2025
+20:42:06 │ INFO    │     → Found 1 result(s), checking titles...
+20:42:06 │ INFO    │     ✓ Found: Kecamatan Muara Harus Dalam Angka 2025
+20:43:19 │ INFO    │     ✅ Downloaded (urllib): Kec_Muara_Harus_Dalam_Angka_2025.pdf (12707 KB)
+20:43:19 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:43:25 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:43:25 │ INFO    │   [121/151] Kecamatan Upau — Kab. Tabalong
+20:43:25 │ INFO    │     🔍 Searching: Upau Dalam Angka 2025
+20:43:28 │ INFO    │     → No results
+20:43:28 │ INFO    │     🔍 Searching: Kecamatan Upau Dalam Angka 2025
+20:43:36 │ INFO    │     → Found 1 result(s), checking titles...
+20:43:36 │ INFO    │     ✓ Found: Kecamatan Upau Dalam Angka 2025
+20:44:56 │ INFO    │     ✅ Downloaded (urllib): Kec_Upau_Dalam_Angka_2025.pdf (11041 KB)
+20:44:56 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:45:01 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:45:01 │ INFO    │   [122/151] Kecamatan Jaro — Kab. Tabalong
+20:45:01 │ INFO    │     🔍 Searching: Jaro Dalam Angka 2025
+20:45:03 │ INFO    │     → Found 1 result(s), checking titles...
+20:45:03 │ INFO    │     ✓ Found: Kecamatan Jaro Dalam Angka 2025
+20:46:13 │ INFO    │     ✅ Downloaded (urllib): Kec_Jaro_Dalam_Angka_2025.pdf (8501 KB)
+20:46:13 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:46:18 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:46:18 │ INFO    │   [123/151] Kecamatan Bintang Ara — Kab. Tabalong
+20:46:18 │ INFO    │     🔍 Searching: Bintang Ara Dalam Angka 2025
+20:46:22 │ INFO    │     → Found 1 result(s), checking titles...
+20:46:22 │ INFO    │     ✓ Found: Kecamatan Bintang Ara Dalam Angka 2025
+20:47:31 │ INFO    │     ✅ Downloaded (urllib): Kec_Bintang_Ara_Dalam_Angka_2025.pdf (10332 KB)
+20:47:31 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:47:35 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:47:35 │ INFO    │   [124/151] Kecamatan Batu Licin — Kab. Tanah Bumbu
+20:47:36 │ INFO    │   ✓ Subdomain verified: tanahbumbukab.bps.go.id
+20:47:36 │ INFO    │     🔍 Searching: Batu Licin Dalam Angka 2025
+20:47:40 │ INFO    │     → Found 1 result(s), checking titles...
+20:47:40 │ INFO    │     ✓ Found: Kecamatan Batu Licin Dalam Angka 2025
+20:48:48 │ INFO    │     ✅ Downloaded (urllib): Kec_Batu_Licin_Dalam_Angka_2025.pdf (7031 KB)
+20:48:48 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:48:54 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:48:54 │ INFO    │   [125/151] Kecamatan Kusan Hilir — Kab. Tanah Bumbu
+20:48:54 │ INFO    │     🔍 Searching: Kusan Hilir Dalam Angka 2025
+20:48:56 │ INFO    │     → Found 1 result(s), checking titles...
+20:48:56 │ INFO    │     ✓ Found: Kecamatan Kusan Hilir Dalam Angka 2025
+20:50:08 │ INFO    │     ✅ Downloaded (urllib): Kec_Kusan_Hilir_Dalam_Angka_2025.pdf (12087 KB)
+20:50:08 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:50:14 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:50:14 │ INFO    │   [126/151] Kecamatan Sungai Loban — Kab. Tanah Bumbu
+20:50:14 │ INFO    │     🔍 Searching: Sungai Loban Dalam Angka 2025
+20:50:16 │ INFO    │     → No results
+20:50:16 │ INFO    │     🔍 Searching: Kecamatan Sungai Loban Dalam Angka 2025
+20:50:18 │ INFO    │     → Found 1 result(s), checking titles...
+20:50:18 │ INFO    │     ✓ Found: Kecamatan Sungai Loban Dalam Angka 2025
+20:51:29 │ INFO    │     ✅ Downloaded (urllib): Kec_Sungai_Loban_Dalam_Angka_2025.pdf (9984 KB)
+20:51:29 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:51:35 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:51:35 │ INFO    │   [127/151] Kecamatan Satui — Kab. Tanah Bumbu
+20:51:35 │ INFO    │     🔍 Searching: Satui Dalam Angka 2025
+20:51:38 │ INFO    │     → Found 1 result(s), checking titles...
+20:51:38 │ INFO    │     ✓ Found: Kecamatan Satui Dalam Angka 2025
+20:52:46 │ INFO    │     ✅ Downloaded (urllib): Kec_Satui_Dalam_Angka_2025.pdf (7865 KB)
+20:52:46 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:52:52 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:52:52 │ INFO    │   [128/151] Kecamatan Kusan Hulu — Kab. Tanah Bumbu
+20:52:52 │ INFO    │     🔍 Searching: Kusan Hulu Dalam Angka 2025
+20:52:56 │ INFO    │     → Found 1 result(s), checking titles...
+20:52:56 │ INFO    │     ✓ Found: Kecamatan Kusan Hulu Dalam Angka 2025
+20:54:07 │ INFO    │     ✅ Downloaded (urllib): Kec_Kusan_Hulu_Dalam_Angka_2025.pdf (8359 KB)
+20:54:07 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:54:13 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:54:13 │ INFO    │   [129/151] Kecamatan Angsana — Kab. Tanah Bumbu
+20:54:13 │ INFO    │     🔍 Searching: Angsana Dalam Angka 2025
+20:54:16 │ INFO    │     → Found 1 result(s), checking titles...
+20:54:16 │ INFO    │     ✓ Found: Kecamatan Angsana Dalam Angka 2025
+20:55:37 │ INFO    │     ✅ Downloaded (urllib): Kec_Angsana_Dalam_Angka_2025.pdf (8995 KB)
+20:55:37 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:55:41 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:55:41 │ INFO    │   [130/151] Kecamatan Kuranji — Kab. Tanah Bumbu
+20:55:41 │ INFO    │     🔍 Searching: Kuranji Dalam Angka 2025
+20:55:45 │ INFO    │     → Found 1 result(s), checking titles...
+20:55:45 │ INFO    │     ✓ Found: Kecamatan Kuranji Dalam Angka 2025
+20:56:56 │ INFO    │     ✅ Downloaded (urllib): Kec_Kuranji_Dalam_Angka_2025.pdf (7870 KB)
+20:56:56 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:57:01 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:57:01 │ INFO    │   [131/151] Kecamatan Karang Bintang — Kab. Tanah Bumbu
+20:57:01 │ INFO    │     🔍 Searching: Karang Bintang Dalam Angka 2025
+20:57:04 │ INFO    │     → Found 1 result(s), checking titles...
+20:57:04 │ INFO    │     ✓ Found: Kecamatan Karang Bintang Dalam Angka 2025
+20:58:10 │ INFO    │     ✅ Downloaded (urllib): Kec_Karang_Bintang_Dalam_Angka_2025.pdf (3536 KB)
+20:58:10 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:58:15 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:58:15 │ INFO    │   [132/151] Kecamatan Simpang Empat — Kab. Tanah Bumbu
+20:58:15 │ INFO    │     🔍 Searching: Simpang Empat Dalam Angka 2025
+20:58:18 │ INFO    │     → Found 1 result(s), checking titles...
+20:58:18 │ INFO    │     ✓ Found: Kecamatan Simpang Empat Dalam Angka 2025
+20:58:21 │ INFO    │     📁 Already downloaded: Kec_Simpang_Empat_Dalam_Angka_2025.pdf
+20:58:21 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:58:25 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:58:25 │ INFO    │   [133/151] Kecamatan Mantewe — Kab. Tanah Bumbu
+20:58:25 │ INFO    │     🔍 Searching: Mantewe Dalam Angka 2025
+20:58:28 │ INFO    │     → Found 1 result(s), checking titles...
+20:58:28 │ INFO    │     ✓ Found: Kecamatan Mantewe Dalam Angka 2025
+20:59:42 │ INFO    │     ✅ Downloaded (urllib): Kec_Mantewe_Dalam_Angka_2025.pdf (7723 KB)
+20:59:42 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+20:59:45 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+20:59:45 │ INFO    │   [134/151] Kecamatan Juai — Kab. Balangan
+20:59:46 │ INFO    │   ✓ Subdomain verified: balangankab.bps.go.id
+20:59:46 │ INFO    │     🔍 Searching: Juai Dalam Angka 2025
+20:59:49 │ INFO    │     → No results
+20:59:49 │ INFO    │     🔍 Searching: Kecamatan Juai Dalam Angka 2025
+20:59:53 │ INFO    │     → Found 1 result(s), checking titles...
+20:59:53 │ INFO    │     ✓ Found: Kecamatan Juai Dalam Angka 2025
+21:01:18 │ INFO    │     ✅ Downloaded (urllib): Kec_Juai_Dalam_Angka_2025.pdf (20746 KB)
+21:01:18 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:01:23 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:01:23 │ INFO    │   [135/151] Kecamatan Halong — Kab. Balangan
+21:01:23 │ INFO    │     🔍 Searching: Halong Dalam Angka 2025
+21:01:26 │ INFO    │     → Found 1 result(s), checking titles...
+21:01:26 │ INFO    │     ✓ Found: Kecamatan Halong Dalam Angka 2025
+21:02:38 │ INFO    │     ✅ Downloaded (urllib): Kec_Halong_Dalam_Angka_2025.pdf (10784 KB)
+21:02:38 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:02:43 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:02:43 │ INFO    │   [136/151] Kecamatan Awayan — Kab. Balangan
+21:02:43 │ INFO    │     🔍 Searching: Awayan Dalam Angka 2025
+21:02:47 │ INFO    │     → Found 1 result(s), checking titles...
+21:02:47 │ INFO    │     ✓ Found: Kecamatan Awayan Dalam Angka 2025
+21:03:51 │ INFO    │     ✅ Downloaded (urllib): Kec_Awayan_Dalam_Angka_2025.pdf (3209 KB)
+21:03:51 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:03:55 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:03:55 │ INFO    │   [137/151] Kecamatan Batumandi — Kab. Balangan
+21:03:55 │ INFO    │     🔍 Searching: Batumandi Dalam Angka 2025
+21:03:59 │ INFO    │     → No results
+21:03:59 │ INFO    │     🔍 Searching: Kecamatan Batumandi Dalam Angka 2025
+21:04:02 │ INFO    │     → No results
+21:04:02 │ INFO    │     🔍 Searching: Batumandi Dalam Angka 2024
+21:04:04 │ INFO    │     → No results
+21:04:04 │ INFO    │     🔍 Searching: Kecamatan Batumandi Dalam Angka 2024
+21:04:08 │ INFO    │     → No results
+21:04:08 │ INFO    │     🔍 Searching: Batumandi Dalam Angka 2023
+21:04:11 │ INFO    │     → No results
+21:04:11 │ INFO    │     🔍 Searching: Kecamatan Batumandi Dalam Angka 2023
+21:04:15 │ INFO    │     → No results
+21:04:15 │ WARNING │   ✖ No publication found for Kecamatan Batumandi
+21:04:15 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:04:18 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:04:18 │ INFO    │   [138/151] Kecamatan Lampihong — Kab. Balangan
+21:04:18 │ INFO    │     🔍 Searching: Lampihong Dalam Angka 2025
+21:04:21 │ INFO    │     → Found 1 result(s), checking titles...
+21:04:21 │ INFO    │     ✓ Found: Kecamatan Lampihong Dalam Angka 2025
+21:05:36 │ INFO    │     ✅ Downloaded (urllib): Kec_Lampihong_Dalam_Angka_2025.pdf (10578 KB)
+21:05:36 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:05:40 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:05:40 │ INFO    │   [139/151] Kecamatan Paringin — Kab. Balangan
+21:05:40 │ INFO    │     🔍 Searching: Paringin Dalam Angka 2025
+21:05:43 │ INFO    │     → No results
+21:05:43 │ INFO    │     🔍 Searching: Kecamatan Paringin Dalam Angka 2025
+21:05:45 │ INFO    │     → Found 1 result(s), checking titles...
+21:05:45 │ INFO    │     ✓ Found: Kecamatan Paringin Dalam Angka 2025
+21:06:53 │ INFO    │     ✅ Downloaded (urllib): Kec_Paringin_Dalam_Angka_2025.pdf (3798 KB)
+21:06:54 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:06:59 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:06:59 │ INFO    │   [140/151] Kecamatan Paringin Selatan — Kab. Balangan
+21:06:59 │ INFO    │     🔍 Searching: Paringin Selatan Dalam Angka 2025
+21:07:02 │ INFO    │     → Found 1 result(s), checking titles...
+21:07:02 │ INFO    │     ✓ Found: Kecamatan Paringin Selatan Dalam Angka 2025
+21:08:09 │ INFO    │     ✅ Downloaded (urllib): Kec_Paringin_Selatan_Dalam_Angka_2025.pdf (3386 KB)
+21:08:09 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:08:12 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:08:12 │ INFO    │   [141/151] Kecamatan Tebing Tinggi — Kab. Balangan
+21:08:12 │ INFO    │     🔍 Searching: Tebing Tinggi Dalam Angka 2025
+21:08:15 │ INFO    │     → Found 1 result(s), checking titles...
+21:08:15 │ INFO    │     ✓ Found: Kecamatan Tebing Tinggi Dalam Angka 2025
+21:09:28 │ INFO    │     ✅ Downloaded (urllib): Kec_Tebing_Tinggi_Dalam_Angka_2025.pdf (9968 KB)
+21:09:28 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:09:33 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:09:33 │ INFO    │   [142/151] Kecamatan Banjarmasin Selatan — Kab. Kota Banjarmasin
+21:09:34 │ INFO    │   ✓ Subdomain verified: banjarmasinkota.bps.go.id
+21:09:34 │ INFO    │     🔍 Searching: Banjarmasin Selatan Dalam Angka 2025
+21:09:38 │ INFO    │     → Found 2 result(s), checking titles...
+21:09:38 │ INFO    │     ✓ Found: Kecamatan Banjarmasin Selatan Dalam Angka 2025
+21:10:51 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjarmasin_Selatan_Dalam_Angka_2025.pdf (10241 KB)
+21:10:51 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:10:55 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:10:55 │ INFO    │   [143/151] Kecamatan Banjarmasin Timur — Kab. Kota Banjarmasin
+21:10:55 │ INFO    │     🔍 Searching: Banjarmasin Timur Dalam Angka 2025
+21:10:58 │ INFO    │     → Found 2 result(s), checking titles...
+21:10:58 │ INFO    │     ✓ Found: Kecamatan Banjarmasin Timur Dalam Angka 2025
+21:12:10 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjarmasin_Timur_Dalam_Angka_2025.pdf (12520 KB)
+21:12:10 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:12:13 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:12:13 │ INFO    │   [144/151] Kecamatan Banjarmasin Barat — Kab. Kota Banjarmasin
+21:12:13 │ INFO    │     🔍 Searching: Banjarmasin Barat Dalam Angka 2025
+21:12:17 │ INFO    │     → Found 2 result(s), checking titles...
+21:12:17 │ INFO    │     ✓ Found: Kecamatan Banjarmasin Barat Dalam Angka 2025
+21:13:30 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjarmasin_Barat_Dalam_Angka_2025.pdf (9874 KB)
+21:13:30 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:13:34 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:13:34 │ INFO    │   [145/151] Kecamatan Banjarmasin Utara — Kab. Kota Banjarmasin
+21:13:34 │ INFO    │     🔍 Searching: Banjarmasin Utara Dalam Angka 2025
+21:13:37 │ INFO    │     → Found 2 result(s), checking titles...
+21:13:37 │ INFO    │     ✓ Found: Kecamatan Banjarmasin Utara Dalam Angka 2025
+21:14:56 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjarmasin_Utara_Dalam_Angka_2025.pdf (14014 KB)
+21:14:56 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:14:59 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:14:59 │ INFO    │   [146/151] Kecamatan Banjarmasin Tengah — Kab. Kota Banjarmasin
+21:14:59 │ INFO    │     🔍 Searching: Banjarmasin Tengah Dalam Angka 2025
+21:15:03 │ INFO    │     → Found 2 result(s), checking titles...
+21:15:03 │ INFO    │     ✓ Found: Kecamatan Banjarmasin Tengah Dalam Angka 2025
+21:16:17 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjarmasin_Tengah_Dalam_Angka_2025.pdf (10876 KB)
+21:16:17 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:16:23 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:16:23 │ INFO    │   [147/151] Kecamatan Landasan Ulin — Kab. Kota Banjar Baru
+21:16:24 │ INFO    │   ✓ Subdomain verified: banjarbarukota.bps.go.id
+21:16:24 │ INFO    │     🔍 Searching: Landasan Ulin Dalam Angka 2025
+21:16:27 │ INFO    │     → Found 1 result(s), checking titles...
+21:16:27 │ INFO    │     ✓ Found: Kecamatan Landasan Ulin Dalam Angka 2025
+21:17:38 │ INFO    │     ✅ Downloaded (urllib): Kec_Landasan_Ulin_Dalam_Angka_2025.pdf (8215 KB)
+21:17:38 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:17:43 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:17:43 │ INFO    │   [148/151] Kecamatan Cempaka — Kab. Kota Banjar Baru
+21:17:43 │ INFO    │     🔍 Searching: Cempaka Dalam Angka 2025
+21:17:47 │ INFO    │     → Found 1 result(s), checking titles...
+21:17:47 │ INFO    │     ✓ Found: Kecamatan Cempaka Dalam Angka 2025
+21:18:57 │ INFO    │     ✅ Downloaded (urllib): Kec_Cempaka_Dalam_Angka_2025.pdf (6343 KB)
+21:18:57 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:19:01 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:19:01 │ INFO    │   [149/151] Kecamatan Banjarbaru Utara — Kab. Kota Banjar Baru
+21:19:01 │ INFO    │     🔍 Searching: Banjarbaru Utara Dalam Angka 2025
+21:19:03 │ INFO    │     → No results
+21:19:03 │ INFO    │     🔍 Searching: Kecamatan Banjarbaru Utara Dalam Angka 2025
+21:19:05 │ INFO    │     → Found 1 result(s), checking titles...
+21:19:05 │ INFO    │     ✓ Found: Kecamatan Banjarbaru Utara Dalam Angka 2025
+21:20:14 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjarbaru_Utara_Dalam_Angka_2025.pdf (6557 KB)
+21:20:14 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:20:18 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:20:18 │ INFO    │   [150/151] Kecamatan Banjarbaru Selatan — Kab. Kota Banjar Baru
+21:20:18 │ INFO    │     🔍 Searching: Banjarbaru Selatan Dalam Angka 2025
+21:20:21 │ INFO    │     → No results
+21:20:21 │ INFO    │     🔍 Searching: Kecamatan Banjarbaru Selatan Dalam Angka 2025
+21:20:23 │ INFO    │     → No results
+21:20:23 │ INFO    │     🔍 Searching: Banjarbaru Selatan Dalam Angka 2024
+21:20:26 │ INFO    │     → Found 1 result(s), checking titles...
+21:20:26 │ INFO    │     ✓ Found: Kecamatan Banjarbaru Selatan Dalam Angka 2024
+21:21:32 │ INFO    │     ✅ Downloaded (urllib): Kec_Banjarbaru_Selatan_Dalam_Angka_2024.pdf (2826 KB)
+21:21:32 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:21:36 │ INFO    │ 
+─────────────────────────────────────────────────────────────────
+21:21:36 │ INFO    │   [151/151] Kecamatan Liang Anggang — Kab. Kota Banjar Baru
+21:21:36 │ INFO    │     🔍 Searching: Liang Anggang Dalam Angka 2025
+21:21:39 │ INFO    │     → No results
+21:21:39 │ INFO    │     🔍 Searching: Kecamatan Liang Anggang Dalam Angka 2025
+21:21:41 │ INFO    │     → Found 1 result(s), checking titles...
+21:21:41 │ INFO    │     ✓ Found: Kecamatan Liang Anggang Dalam Angka 2025
+21:22:51 │ INFO    │     ✅ Downloaded (urllib): Kec_Liang_Anggang_Dalam_Angka_2025.pdf (6623 KB)
+21:22:51 │ INFO    │   📄 CSV saved: D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:22:57 │ INFO    │ 
+=================================================================
+21:22:57 │ INFO    │   SCRAPING SUMMARY
+21:22:57 │ INFO    │ =================================================================
+21:22:57 │ INFO    │   Total processed : 151
+21:22:57 │ INFO    │   ✅ Success       : 149
+21:22:57 │ INFO    │   🔗 Link only     : 0
+21:22:57 │ INFO    │   ❌ Not found     : 2
+21:22:57 │ INFO    │   ⚠ Errors        : 0
+21:22:57 │ INFO    │   CSV output      : D:\UGM\BI_Cash-Handling-Project\data_penduduk\report_links.csv
+21:22:57 │ INFO    │   PDF directory   : D:\UGM\BI_Cash-Handling-Project\kumpulan_pdf
+21:22:57 │ INFO    │   Completed       : 2026-04-30 21:22:57
+21:22:57 │ INFO    │ =================================================================
